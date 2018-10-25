@@ -14,4 +14,5 @@
 - [Java 模块化]()
 
 ## 异常处理
-[Java异常：选择Checked Exception还是Unchecked Exception? - __kingzone__的专栏 - CSDN博客](https://blog.csdn.net/kingzone_2008/article/details/8535287)
+- [Java异常：选择Checked Exception还是Unchecked Exception? - __kingzone__的专栏 - CSDN博客](https://blog.csdn.net/kingzone_2008/article/details/8535287)
+- [异常大讨论-抛出异常还是返回false - 追风的Java专栏 - CSDN博客](https://blog.csdn.net/yajunren/article/details/10277155)
