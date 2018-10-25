@@ -12,3 +12,6 @@
 ## 模块化
 
 - [Java 模块化]()
+
+## 异常处理
+[Java异常：选择Checked Exception还是Unchecked Exception? - __kingzone__的专栏 - CSDN博客](https://blog.csdn.net/kingzone_2008/article/details/8535287)
